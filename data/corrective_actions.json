@@ -1,0 +1,58 @@
+[
+  {
+    "ca_id": "CA-001",
+    "finding_id": "AF-001",
+    "dept_id": "DEPT-004",
+    "title": "Draft Operational Control Plan DOC-007",
+    "assigned_to": "PO-004",
+    "due_date": "2026-01-15",
+    "status": "not_started",
+    "priority": "critical",
+    "steps": [
+      "Identify all core operational processes requiring control documentation",
+      "Draft procedural checklists for shift handover processes",
+      "Submit DOC-007 draft to QMS Manager for review",
+      "Obtain top management approval",
+      "Train all operations staff on new procedure"
+    ],
+    "verified_by": null,
+    "close_date": null
+  },
+  {
+    "ca_id": "CA-002",
+    "finding_id": "AF-002",
+    "dept_id": "DEPT-006",
+    "title": "Complete overdue supplier evaluation audits",
+    "assigned_to": "PO-006",
+    "due_date": "2026-01-10",
+    "status": "in_progress",
+    "priority": "critical",
+    "steps": [
+      "Compile list of all strategic suppliers requiring evaluation",
+      "Schedule and conduct supplier evaluation audits for top-5 vendors",
+      "Update DOC-005 Supplier Evaluation Procedure",
+      "Record all evaluation outcomes in supplier register",
+      "Submit completed records to QMS Manager"
+    ],
+    "verified_by": null,
+    "close_date": null
+  },
+  {
+    "ca_id": "CA-003",
+    "finding_id": "AF-003",
+    "dept_id": "DEPT-002",
+    "title": "Approve IT Security Policy DOC-003",
+    "assigned_to": "PO-002",
+    "due_date": "2025-12-31",
+    "status": "in_progress",
+    "priority": "medium",
+    "steps": [
+      "Complete final review of DOC-003 draft",
+      "Schedule management review meeting",
+      "Obtain formal sign-off from ICT Director and QMS Manager",
+      "Publish approved version to document control system"
+    ],
+    "verified_by": null,
+    "close_date": null
+  }
+]

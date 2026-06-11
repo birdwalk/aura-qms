@@ -1,0 +1,35 @@
+[
+  {
+    "record_id": "TR-001", "owner_id": "PO-001",
+    "module": "ISO 9001:2015 Full Awareness", "completion_date": "2025-06-15",
+    "score": 88, "result": "pass", "attempts": 1, "certified": true
+  },
+  {
+    "record_id": "TR-002", "owner_id": "PO-003",
+    "module": "ISO 9001:2015 Clause 6 & 10 Deep Dive", "completion_date": "2025-11-20",
+    "score": 91, "result": "pass", "attempts": 1, "certified": true
+  },
+  {
+    "record_id": "TR-003", "owner_id": "PO-005",
+    "module": "ISO 9001:2015 Clause 7.1–7.3 Competence", "completion_date": "2025-10-08",
+    "score": 76, "result": "pass", "attempts": 2, "certified": false,
+    "notes": "Passed on second attempt. Certification exam pending."
+  },
+  {
+    "record_id": "TR-004", "owner_id": "PO-002",
+    "module": "ISO 9001:2015 Clause 7.5 Documented Information", "completion_date": null,
+    "score": null, "result": "not_started", "attempts": 0, "certified": false
+  },
+  {
+    "record_id": "TR-005", "owner_id": "PO-004",
+    "module": "ISO 9001:2015 Clause 8.1 Operational Control", "completion_date": "2025-09-03",
+    "score": 57, "result": "fail", "attempts": 1, "certified": false,
+    "notes": "Failed. Recommended 6-week structured study plan before retake."
+  },
+  {
+    "record_id": "TR-006", "owner_id": "PO-006",
+    "module": "ISO 9001:2015 Clause 8.4 External Providers", "completion_date": null,
+    "score": null, "result": "not_started", "attempts": 0, "certified": false,
+    "notes": "No training initiated. Critical gap — audit in 47 days."
+  }
+]

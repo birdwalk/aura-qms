@@ -1,0 +1,13 @@
+{
+  "name": "aura-qms",
+  "displayName": "AURA QMS — Adaptive Universal Readiness Agent",
+  "description": "AI-Powered Multi-Agent System for ISO Compliance Readiness built on Microsoft Foundry",
+  "version": "1.0.0",
+  "challenge": "Reasoning Agents",
+  "platform": "Microsoft Foundry",
+  "framework": "React + Vite + TypeScript",
+  "agents": 6,
+  "iq_layers": ["Foundry IQ", "Fabric IQ", "Work IQ"],
+  "synthetic_data_only": true,
+  "responsible_ai": true
+}

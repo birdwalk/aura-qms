@@ -1,0 +1,44 @@
+[
+  {
+    "score_id": "RS-001", "dept_id": "DEPT-001", "period": "2025-Q4",
+    "overall_score": 87, "document_score": 94, "training_score": 88,
+    "audit_score": 85, "process_score": 81,
+    "major_nc_penalty": 0, "risk_level": "low", "predicted_cert_readiness": "ready",
+    "trend_vs_prev_quarter": "+2"
+  },
+  {
+    "score_id": "RS-002", "dept_id": "DEPT-002", "period": "2025-Q4",
+    "overall_score": 73, "document_score": 80, "training_score": 65,
+    "audit_score": 72, "process_score": 75,
+    "major_nc_penalty": 0, "risk_level": "medium", "predicted_cert_readiness": "at_risk",
+    "trend_vs_prev_quarter": "0"
+  },
+  {
+    "score_id": "RS-003", "dept_id": "DEPT-003", "period": "2025-Q4",
+    "overall_score": 91, "document_score": 95, "training_score": 90,
+    "audit_score": 92, "process_score": 87,
+    "major_nc_penalty": 0, "risk_level": "low", "predicted_cert_readiness": "ready",
+    "trend_vs_prev_quarter": "+1"
+  },
+  {
+    "score_id": "RS-004", "dept_id": "DEPT-004", "period": "2025-Q4",
+    "overall_score": 61, "document_score": 40, "training_score": 55,
+    "audit_score": 68, "process_score": 81,
+    "major_nc_penalty": -15, "risk_level": "high", "predicted_cert_readiness": "not_ready",
+    "trend_vs_prev_quarter": "-3"
+  },
+  {
+    "score_id": "RS-005", "dept_id": "DEPT-005", "period": "2025-Q4",
+    "overall_score": 79, "document_score": 85, "training_score": 74,
+    "audit_score": 80, "process_score": 77,
+    "major_nc_penalty": 0, "risk_level": "medium", "predicted_cert_readiness": "on_track",
+    "trend_vs_prev_quarter": "+1"
+  },
+  {
+    "score_id": "RS-006", "dept_id": "DEPT-006", "period": "2025-Q4",
+    "overall_score": 55, "document_score": 35, "training_score": 48,
+    "audit_score": 58, "process_score": 79,
+    "major_nc_penalty": -15, "risk_level": "high", "predicted_cert_readiness": "not_ready",
+    "trend_vs_prev_quarter": "-5"
+  }
+]

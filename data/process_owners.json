@@ -1,0 +1,74 @@
+[
+  {
+    "owner_id": "PO-001",
+    "dept_id": "DEPT-001",
+    "role": "QMS Manager",
+    "training_complete": true,
+    "modules_completed": ["Clause 4", "Clause 5", "Clause 6", "Clause 7", "Clause 8", "Clause 9", "Clause 10"],
+    "last_assessment_score": 88,
+    "last_assessment_date": "2025-12-10",
+    "certified": true,
+    "workload_band": "medium",
+    "notes": "Fully certified. Leads the QMS programme organisation-wide."
+  },
+  {
+    "owner_id": "PO-002",
+    "dept_id": "DEPT-002",
+    "role": "ICT Manager",
+    "training_complete": false,
+    "modules_completed": ["Clause 7.1.3", "Clause 8.1.3"],
+    "last_assessment_score": 62,
+    "last_assessment_date": "2025-09-15",
+    "certified": false,
+    "workload_band": "high",
+    "notes": "High meeting load. Clause 7.5 and 9.1.1 modules not yet completed."
+  },
+  {
+    "owner_id": "PO-003",
+    "dept_id": "DEPT-003",
+    "role": "HSE Manager",
+    "training_complete": true,
+    "modules_completed": ["Clause 6.1", "Clause 7.2", "Clause 8.2", "Clause 10"],
+    "last_assessment_score": 91,
+    "last_assessment_date": "2025-12-05",
+    "certified": true,
+    "workload_band": "low",
+    "notes": "Top performer. Available for peer mentoring programme."
+  },
+  {
+    "owner_id": "PO-004",
+    "dept_id": "DEPT-004",
+    "role": "Operations Manager",
+    "training_complete": false,
+    "modules_completed": ["Clause 8.1 (partial)"],
+    "last_assessment_score": 57,
+    "last_assessment_date": "2025-11-20",
+    "certified": false,
+    "workload_band": "high",
+    "notes": "Critically overloaded. 35 meeting hrs/week leaves no training capacity. Escalation required."
+  },
+  {
+    "owner_id": "PO-005",
+    "dept_id": "DEPT-005",
+    "role": "HR Manager",
+    "training_complete": true,
+    "modules_completed": ["Clause 7.1.2", "Clause 7.2", "Clause 7.3"],
+    "last_assessment_score": 76,
+    "last_assessment_date": "2025-11-28",
+    "certified": false,
+    "workload_band": "medium",
+    "notes": "Passed training threshold but certification assessment pending reschedule."
+  },
+  {
+    "owner_id": "PO-006",
+    "dept_id": "DEPT-006",
+    "role": "Procurement Manager",
+    "training_complete": false,
+    "modules_completed": [],
+    "last_assessment_score": 48,
+    "last_assessment_date": "2025-10-12",
+    "certified": false,
+    "workload_band": "high",
+    "notes": "No modules completed. Score below 50% threshold. Immediate intervention required."
+  }
+]

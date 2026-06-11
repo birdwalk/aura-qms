@@ -1,0 +1,11 @@
+[
+  { "doc_id": "DOC-001", "title": "Quality Manual", "dept_id": "DEPT-001", "type": "Manual", "status": "approved", "iso_clause": "4.3", "last_reviewed": "Nov 2025", "next_review_due": "Nov 2026", "owner": "PO-001", "revision": "3.2" },
+  { "doc_id": "DOC-002", "title": "Internal Audit Procedure", "dept_id": "DEPT-001", "type": "Procedure", "status": "approved", "iso_clause": "9.2", "last_reviewed": "Dec 2025", "next_review_due": "Dec 2026", "owner": "PO-001", "revision": "2.1" },
+  { "doc_id": "DOC-003", "title": "IT Security Policy", "dept_id": "DEPT-002", "type": "Policy", "status": "draft", "iso_clause": "7.1.3", "last_reviewed": null, "next_review_due": null, "owner": "PO-002", "revision": "1.0" },
+  { "doc_id": "DOC-004", "title": "Corrective Action Procedure", "dept_id": "DEPT-001", "type": "Procedure", "status": "approved", "iso_clause": "10.2", "last_reviewed": "Nov 2025", "next_review_due": "Nov 2026", "owner": "PO-001", "revision": "4.0" },
+  { "doc_id": "DOC-005", "title": "Supplier Evaluation Procedure", "dept_id": "DEPT-006", "type": "Procedure", "status": "overdue_review", "iso_clause": "8.4.1", "last_reviewed": "Jun 2024", "next_review_due": "Jun 2025", "owner": "PO-006", "revision": "2.3" },
+  { "doc_id": "DOC-006", "title": "Internal Audit Programme", "dept_id": "DEPT-001", "type": "Record", "status": "approved", "iso_clause": "9.2", "last_reviewed": "Dec 2025", "next_review_due": "Dec 2026", "owner": "PO-001", "revision": "1.5" },
+  { "doc_id": "DOC-007", "title": "Operational Control Plan", "dept_id": "DEPT-004", "type": "Plan", "status": "missing", "iso_clause": "8.1", "last_reviewed": null, "next_review_due": null, "owner": "PO-004", "revision": null },
+  { "doc_id": "DOC-008", "title": "Training Needs Analysis Register", "dept_id": "DEPT-005", "type": "Record", "status": "approved", "iso_clause": "7.2", "last_reviewed": "Nov 2025", "next_review_due": "Nov 2026", "owner": "PO-005", "revision": "1.1" },
+  { "doc_id": "DOC-009", "title": "Procurement Standards Guideline", "dept_id": "DEPT-006", "type": "Guideline", "status": "draft", "iso_clause": "8.4", "last_reviewed": null, "next_review_due": null, "owner": "PO-006", "revision": "0.9" }
+]

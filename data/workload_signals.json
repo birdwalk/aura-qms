@@ -1,0 +1,38 @@
+[
+  {
+    "signal_id": "WS-001", "owner_id": "PO-001", "week": "2025-W49",
+    "meeting_hours": 12, "focus_hours": 28, "training_hours_available": 6,
+    "preferred_learning_slot": "Wednesday Afternoon", "capacity_band": "available",
+    "collaboration_load": "low", "email_volume_daily": 18
+  },
+  {
+    "signal_id": "WS-002", "owner_id": "PO-002", "week": "2025-W49",
+    "meeting_hours": 22, "focus_hours": 18, "training_hours_available": 3,
+    "preferred_learning_slot": "Friday Morning", "capacity_band": "limited",
+    "collaboration_load": "medium", "email_volume_daily": 34
+  },
+  {
+    "signal_id": "WS-003", "owner_id": "PO-003", "week": "2025-W49",
+    "meeting_hours": 8, "focus_hours": 32, "training_hours_available": 8,
+    "preferred_learning_slot": "Monday Afternoon", "capacity_band": "available",
+    "collaboration_load": "low", "email_volume_daily": 12
+  },
+  {
+    "signal_id": "WS-004", "owner_id": "PO-004", "week": "2025-W49",
+    "meeting_hours": 35, "focus_hours": 4, "training_hours_available": 0,
+    "preferred_learning_slot": "Thursday Morning (blocked)", "capacity_band": "overloaded",
+    "collaboration_load": "critical", "email_volume_daily": 58
+  },
+  {
+    "signal_id": "WS-005", "owner_id": "PO-005", "week": "2025-W49",
+    "meeting_hours": 25, "focus_hours": 15, "training_hours_available": 2,
+    "preferred_learning_slot": "Tuesday Morning", "capacity_band": "limited",
+    "collaboration_load": "medium", "email_volume_daily": 27
+  },
+  {
+    "signal_id": "WS-006", "owner_id": "PO-006", "week": "2025-W49",
+    "meeting_hours": 29, "focus_hours": 11, "training_hours_available": 1,
+    "preferred_learning_slot": "Thursday Afternoon", "capacity_band": "constrained",
+    "collaboration_load": "high", "email_volume_daily": 41
+  }
+]

@@ -1,11 +1,15 @@
 <div align="center">
 
 # AURA QMS
-## Adaptive Universal Readiness Agent
+## Adaptive Universal Risk & Audit System
 
-**AI-Powered Multi-Agent System for ISO Compliance Readiness**
+## Challenge Submission
 
-*Microsoft Agents League — Reasoning Agents Challenge*
+**Microsoft Agents League 2026**
+
+**Challenge:** Reasoning Agents
+
+AURA-QMS demonstrates how coordinated AI agents solve complex enterprise compliance and certification challenges through multi-step reasoning, knowledge grounding, and agent orchestration using Microsoft Azure AI Foundry.
 
 ---
 
@@ -29,7 +33,11 @@ AURA QMS changes this.
 
 ## The Solution
 
-AURA QMS is a **Microsoft Foundry-powered multi-agent enterprise system** that continuously monitors, teaches, assesses, and advises on ISO 9001:2015 compliance readiness. Six specialised AI agents collaborate under an intelligent orchestrator to deliver grounded, cited, multi-step reasoning across every dimension of QMS readiness — 24/7, before the auditor knocks.
+AURA QMS is a Microsoft Foundry-powered multi-agent reasoning system that continuously monitors, teaches, assesses, and advises on ISO 9001:2015 compliance readiness. Six specialised AI agents collaborate under an intelligent orchestrator to perform grounded, cited, multi-step reasoning across every dimension of QMS readiness.
+
+Rather than relying on a single AI assistant, AURA decomposes complex compliance problems into specialised workflows involving compliance analysis, competency evaluation, audit readiness assessment, management insight generation, and corrective action planning. The Orchestrator Agent coordinates these agents, aggregates their outputs, and delivers explainable recommendations before compliance issues become audit findings.
+
+By combining agent orchestration, enterprise knowledge grounding, and structured reasoning workflows, AURA enables organisations to identify risks earlier, improve readiness continuously, and make informed compliance decisions before the external auditor arrives.
 
 The system serves two layers of users simultaneously:
 - **Process Owners** interact with their personal compliance portal — completing assessments, managing documents, following learning paths
